@@ -214,8 +214,10 @@ html{
     width: 50%;
   }
   .contact-form{
-    width:100%;
+    width:50%;
   }
+  .contact-submit{
+    width:50%;
   .footer-list{
     width:100%;
   }
