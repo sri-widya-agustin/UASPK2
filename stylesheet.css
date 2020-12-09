@@ -203,7 +203,7 @@ input, textarea {
 html{
   scroll-behavior: smooth;
 }
-@media(max-width:670px){
+@media(max-width:768px){
   .mobile-menu{
     display:block;
   }
